@@ -17,9 +17,12 @@ This project is designed to efficiently parse and process a sea of AIS (Automati
 
 Getting started is as easy as hoisting the sails:
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/XYZ-GmbH/SeaStream-AIS-Parser.git
+```bash
+git clone https://github.com/OP-RETRUN/seastream
+
+docker-compose up
+
+```
 
 
 ## Introduction to AIS
